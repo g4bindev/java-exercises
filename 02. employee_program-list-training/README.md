@@ -1,0 +1,2 @@
+Este programa cria uma lista com N funcionários, onde a quantidade de funcionários é estabelecida quando o programa é iniciado.
+Cada funcionário recebe um id único que pode ser utilizado para checagem e alteração dos dados que são guardados na instância que carrega o id.
