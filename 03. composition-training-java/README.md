@@ -1,0 +1,1 @@
+Este programa simula o carrinho de uma loja, coletando informações sobre o cliente e os pedidos que vão ser adicionados no carrinho, ao final do programa ele imprime as informações de entrada desse cliente junto com o subtotal de cada item adicionado e o preço final a ser pago.
